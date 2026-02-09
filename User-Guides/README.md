@@ -1,4 +1,4 @@
 # User Guides
 
 This folder contains end‑user documentation including installation,
-quick start, feature walkthroughs, and troubleshooting guides.''
+quick start, feature walkthroughs, and troubleshooting guides.
